@@ -1,10 +1,10 @@
-# Hi, I'm Arpita Nandy 👋
+# Hi, I am Arpita Nandy 👋
 
 ### Data Analyst | Python · SQL · Tableau | Business Intelligence & Storytelling
 
 ---
 
-I'm a data analyst passionate about turning raw data into actionable business insights. I work across the full analytics pipeline — from data wrangling and exploratory analysis to statistical modelling and interactive dashboard design.
+I am a data analyst passionate about turning raw data into actionable business insights. I work across the full analytics pipeline — from data wrangling and exploratory analysis to statistical modelling and interactive dashboard design.
 
 ---
 
