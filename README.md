@@ -44,7 +44,7 @@ Check out my interactive dashboards on [Tableau Public](https://public.tableau.c
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpita%20Nandy-blue?logo=linkedin)](https://www.linkedin.com/in/arpita-nandy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpita%20Nandy-blue?logo=linkedin)](https://www.linkedin.com/in/arpitanandy11/)
 
 ---
 
